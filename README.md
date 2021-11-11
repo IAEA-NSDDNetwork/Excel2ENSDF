@@ -1,5 +1,7 @@
 # Excel2ENSDF  
-Creates ENSDF formatted file from Excel. Excel2ENSDF  is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+Creates ENSDF formatted file from Excel. 
+
+Excel2ENSDF  is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Please address any feedback to Jun Chen chenj@nscl.msu.edu
 
