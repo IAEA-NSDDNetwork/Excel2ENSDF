@@ -8,7 +8,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2022-06
-* New Version
+* Version 2022-06
 
 #### 2022-04
 * New Version
