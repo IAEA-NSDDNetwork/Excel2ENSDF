@@ -7,6 +7,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2022-11
+Add new feathurs for making operations on ENSDF data records, like adding, multiplying
+
 #### 2022-09
 Bug fixes
 
