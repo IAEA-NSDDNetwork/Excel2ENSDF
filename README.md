@@ -13,7 +13,7 @@ an example input expression='1.23(5)*(R+3.45(12))*(1+CC)/2.5(2)', where 'R' is u
 to be made operation on, 'CC' is the reserved ENSDF name of CC record, '1.23(5)' is a standard value(uncertainty) 
 pair in the ENSDF-style uncertainty format. In the operations, 'R' will be replaced with the actual value of specified
 record (selected from a dropdown list) and 'CC' will be replaced with the actual value of the CC record, in 
-each record line of specified type (e.g., level/gamma).
+each record line of specified type (e.g., gamma).
 
 #### 2023-05
 Bug fix
