@@ -9,7 +9,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 #### 2025-03
 Add feature for making operations on ENSDF data records using regular arithmetic expressions, like
-an example input expression='1.23(5)*(R+3.45(12))*(1+CC)/2.5(2)', where 'R' is used to respent the record
+an example input expression='1.23(5)*(R+3.45(12))*(1+CC)/2.5(2)', where 'R' is used to represent the record
 to be made operation on, 'CC' is the reserved ENSDF name of CC record, '1.23(5)' is a standard value(uncertainty) 
 pair in the ENSDF-style uncertainty format. In the operations, 'R' will be replaced with the actual value of specified
 record (selected from a dropdown list) and 'CC' will be replaced with the actual value of the CC record, in 
