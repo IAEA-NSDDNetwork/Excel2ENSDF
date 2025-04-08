@@ -7,7 +7,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
-#### 2025-03
+#### 2025-04
 Add an option in the "Operation on ENSDF" tool window (in the popup menu from a right-click on a blank area) to 
 estimate and assign uncertainties for gamma-ray intensities without uncertainties using a smoothly-varing function 
 of gamma-ray intensity, based on an authors' general statement, like "uncertainty ranges from 5% to 20% depending on intensity".
